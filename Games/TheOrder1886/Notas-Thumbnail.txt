@@ -1,0 +1,4 @@
+
+- La capa del filtro sobre el texto va al 30% de opacidad.
+- Para hacer el borde, seleccionar el texto (desde ruta) 
+y agrandar 3px.
