@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mlt LC_NUMERIC="C" version="6.21.0" title="Shotcut version 20.04.12" producer="main_bin">
+  <profile description="PAL 4:3 DV or DVD" width="1280" height="720" progressive="1" sample_aspect_num="1" sample_aspect_den="1" display_aspect_num="16" display_aspect_den="9" frame_rate_num="60" frame_rate_den="1" colorspace="709"/>
+  <producer id="producer0" in="00:00:00.000" out="03:59:59.983">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/0-DEV/YT-EspidiGames/OverlayAnimations/Social_Media_Overlay_Animation/#00000000</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgb24a</property>
+    <property name="shotcut:caption">transparent</property>
+    <property name="shotcut:detail">transparent</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="seekable">1</property>
+  </producer>
+  <producer id="producer1" in="00:00:00.000" out="00:00:07.167">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/0-DEV/YT-EspidiGames/OverlayAnimations/Resources/Espidi_Games_Overlays/EspidiGames-Webcam-Overlay.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2020-05-30T21:22:33</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">24fd50eb44c43973b243290b48cc4a76</property>
+    <property name="shotcut:caption">EspidiGames-Webcam-Overlay.png</property>
+    <property name="shotcut:detail">D:\0-DEV\YT-EspidiGames\OverlayAnimations\Resources\Espidi_Games_Overlays\EspidiGames-Webcam-Overlay.png</property>
+    <property name="ignore_points">1</property>
+  </producer>
+  <producer id="producer2" in="00:00:00.000" out="00:00:07.167">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/0-DEV/YT-EspidiGames/OverlayAnimations/Resources/Espidi_Games_Overlays/EspidiGames-RRSS-Overlay-3-Left.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2020-05-30T21:44:08</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">c8951bd90cbba88b6cc8d631e18bde7a</property>
+    <property name="shotcut:caption">EspidiGames-RRSS-Overlay-3-Left.png</property>
+    <property name="shotcut:detail">D:\0-DEV\YT-EspidiGames\OverlayAnimations\Resources\Espidi_Games_Overlays\EspidiGames-RRSS-Overlay-3-Left.png</property>
+    <property name="ignore_points">1</property>
+  </producer>
+  <producer id="producer3" in="00:00:00.000" out="03:59:59.983">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/0-DEV/YT-EspidiGames/OverlayAnimations/Resources/MGW-2018.jpg</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2020-01-29T07:40:42</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">bc066808e2fe0400b3365eee2d583bf2</property>
+  </producer>
+  <producer id="producer4" in="00:00:00.000" out="00:00:07.167">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/0-DEV/YT-EspidiGames/OverlayAnimations/Resources/Espidi_Games_Overlays/insta-text.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2020-05-31T12:20:26</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">061bafc47bbfcac9ac4c383cc6308a4a</property>
+    <property name="shotcut:caption">insta-text.png</property>
+    <property name="shotcut:detail">D:\0-DEV\YT-EspidiGames\OverlayAnimations\Resources\Espidi_Games_Overlays\insta-text.png</property>
+    <property name="ignore_points">1</property>
+  </producer>
+  <producer id="producer5" in="00:00:00.000" out="03:59:59.983">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/0-DEV/YT-EspidiGames/OverlayAnimations/Resources/Espidi_Games_Overlays/twitch-text.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2020-05-31T12:21:08</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">87a4593bc5d11a5d99bb9c08deaeb695</property>
+  </producer>
+  <producer id="producer6" in="00:00:00.000" out="03:59:59.983">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/0-DEV/YT-EspidiGames/OverlayAnimations/Resources/Espidi_Games_Overlays/yt-text.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2020-05-31T12:20:48</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">f83e102bd8da9bf4554f0c48ca2484c0</property>
+  </producer>
+  <producer id="producer7" in="00:00:00.000" out="03:59:59.983">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/0-DEV/YT-EspidiGames/OverlayAnimations/Resources/Espidi_Games_Overlays/GreenBG.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2020-05-31T20:00:49</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">ae6cd8b58e50d0020f8dc10ce95d6c23</property>
+  </producer>
+  <producer id="producer8" in="00:00:00.000" out="03:59:59.983">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">#FFDB4132</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgb24a</property>
+    <property name="shotcut:caption">#FFDB4132</property>
+    <property name="shotcut:detail">#FFDB4132</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="seekable">1</property>
+  </producer>
+  <playlist id="main_bin">
+    <property name="xml_retain">1</property>
+    <entry producer="producer0" in="00:00:00.000" out="00:00:07.167"/>
+    <entry producer="producer1" in="00:00:00.000" out="00:00:07.167"/>
+    <entry producer="producer2" in="00:00:00.000" out="00:00:07.167"/>
+    <entry producer="producer3" in="00:00:00.000" out="00:00:07.167"/>
+    <entry producer="producer4" in="00:00:00.000" out="00:00:07.167"/>
+    <entry producer="producer5" in="00:00:00.000" out="00:00:07.167"/>
+    <entry producer="producer6" in="00:00:00.000" out="00:00:07.167"/>
+    <entry producer="producer7" in="00:00:00.000" out="00:00:07.167"/>
+    <entry producer="producer8" in="00:00:00.000" out="00:00:07.167"/>
+  </playlist>
+  <producer id="black" in="00:00:00.000" out="00:09:59.983">
+    <property name="length">00:10:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/0-DEV/YT-EspidiGames/OverlayAnimations/Social_Media_Overlay_Animation/0</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgb24a</property>
+    <property name="set.test_audio">0</property>
+  </producer>
+  <playlist id="background">
+    <entry producer="black" in="00:00:00.000" out="00:09:59.983"/>
+  </playlist>
+  <producer id="producer9" in="00:00:00.000" out="03:59:59.983">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">#FFDB4132</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgb24a</property>
+    <property name="shotcut:caption">#FFDB4132</property>
+    <property name="shotcut:detail">#FFDB4132</property>
+    <property name="ignore_points">0</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="seekable">1</property>
+  </producer>
+  <playlist id="playlist0">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V1</property>
+    <entry producer="producer9" in="00:00:00.000" out="00:09:59.983"/>
+  </playlist>
+  <producer id="producer10" in="00:00:00.000" out="03:59:59.983">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/0-DEV/YT-EspidiGames/OverlayAnimations/Resources/Espidi_Games_Overlays/EspidiGames-RRSS-Overlay-3-Left.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2020-05-30T21:44:08</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">c8951bd90cbba88b6cc8d631e18bde7a</property>
+    <property name="shotcut:caption">EspidiGames-RRSS-Overlay-3-Left.png</property>
+    <property name="shotcut:detail">D:\0-DEV\YT-EspidiGames\OverlayAnimations\Resources\Espidi_Games_Overlays\EspidiGames-RRSS-Overlay-3-Left.png</property>
+    <filter id="filter0" out="00:09:59.983">
+      <property name="background">colour:0</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineRotate</property>
+      <property name="transition.invert_scale">1</property>
+      <property name="transition.fix_rotate_x">0</property>
+      <property name="transition.scale_x">0.3</property>
+      <property name="transition.scale_y">0.3</property>
+      <property name="transition.ox">0</property>
+      <property name="transition.oy">0</property>
+      <property name="transition.threads">0</property>
+    </filter>
+    <filter id="filter1" out="00:09:59.983">
+      <property name="background">colour:0</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">00:00:00.000=0 100 1280 720 1;00:00:00.167=0 250 1280 720 1;00:00:00.250=0 230 1280 720 1;00:00:29.750=0 230 1280 720 1;00:00:29.833=0 250 1280 720 1;00:00:30.000=0 100 1280 720 1</property>
+      <property name="transition.valign">top</property>
+      <property name="transition.halign">left</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+    </filter>
+  </producer>
+  <playlist id="playlist2">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V2</property>
+    <entry producer="producer10" in="00:00:00.000" out="00:09:59.983"/>
+  </playlist>
+  <producer id="producer11" in="00:00:00.000" out="03:59:59.983">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/0-DEV/YT-EspidiGames/OverlayAnimations/Resources/Espidi_Games_Overlays/twitch-text.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2020-05-31T12:21:08</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">87a4593bc5d11a5d99bb9c08deaeb695</property>
+    <property name="shotcut:caption">twitch-text.png</property>
+    <property name="shotcut:detail">D:\0-DEV\YT-EspidiGames\OverlayAnimations\Resources\Espidi_Games_Overlays\twitch-text.png</property>
+    <filter id="filter2" out="00:00:09.483">
+      <property name="background">colour:0</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineRotate</property>
+      <property name="transition.invert_scale">1</property>
+      <property name="transition.fix_rotate_x">0</property>
+      <property name="transition.scale_x">0.3</property>
+      <property name="transition.scale_y">0.3</property>
+      <property name="transition.ox">0</property>
+      <property name="transition.oy">0</property>
+      <property name="transition.threads">0</property>
+    </filter>
+    <filter id="filter3" out="00:00:09.483">
+      <property name="background">colour:0</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">0 230 1280 720 1</property>
+      <property name="transition.valign">top</property>
+      <property name="transition.halign">left</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+    </filter>
+    <filter id="filter4" out="00:00:09.483">
+      <property name="start">1</property>
+      <property name="level">1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeInBrightness</property>
+      <property name="alpha">00:00:00.000=0;00:00:00.317=1</property>
+      <property name="shotcut:animIn">00:00:00.333</property>
+    </filter>
+    <filter id="filter5" out="00:00:09.483">
+      <property name="start">1</property>
+      <property name="level">1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeOutBrightness</property>
+      <property name="alpha">00:00:09.167=1;00:00:09.483=0</property>
+      <property name="shotcut:animOut">00:00:00.333</property>
+    </filter>
+  </producer>
+  <producer id="producer12" in="00:00:00.000" out="03:59:59.983">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/0-DEV/YT-EspidiGames/OverlayAnimations/Resources/Espidi_Games_Overlays/yt-text.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2020-05-31T12:20:48</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">f83e102bd8da9bf4554f0c48ca2484c0</property>
+    <property name="shotcut:caption">yt-text.png</property>
+    <property name="shotcut:detail">D:\0-DEV\YT-EspidiGames\OverlayAnimations\Resources\Espidi_Games_Overlays\yt-text.png</property>
+    <filter id="filter6" out="00:00:09.983">
+      <property name="background">colour:0</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineRotate</property>
+      <property name="transition.invert_scale">1</property>
+      <property name="transition.fix_rotate_x">0</property>
+      <property name="transition.scale_x">0.3</property>
+      <property name="transition.scale_y">0.3</property>
+      <property name="transition.ox">0</property>
+      <property name="transition.oy">0</property>
+      <property name="transition.threads">0</property>
+    </filter>
+    <filter id="filter7" out="00:00:09.983">
+      <property name="background">colour:0</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">0 230 1280 720 1</property>
+      <property name="transition.valign">top</property>
+      <property name="transition.halign">left</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+    </filter>
+    <filter id="filter8" out="00:00:09.983">
+      <property name="start">1</property>
+      <property name="level">1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeInBrightness</property>
+      <property name="alpha">00:00:00.000=0;00:00:00.317=1</property>
+      <property name="shotcut:animIn">00:00:00.333</property>
+    </filter>
+    <filter id="filter9" out="00:00:09.983">
+      <property name="start">1</property>
+      <property name="level">1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeOutBrightness</property>
+      <property name="alpha">00:00:09.667=1;00:00:09.983=0</property>
+      <property name="shotcut:animOut">00:00:00.333</property>
+    </filter>
+  </producer>
+  <producer id="producer13" in="00:00:00.000" out="03:59:59.983">
+    <property name="length">04:00:00.000</property>
+    <property name="eof">pause</property>
+    <property name="resource">D:/0-DEV/YT-EspidiGames/OverlayAnimations/Resources/Espidi_Games_Overlays/insta-text.png</property>
+    <property name="ttl">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="progressive">1</property>
+    <property name="seekable">1</property>
+    <property name="mlt_service">qimage</property>
+    <property name="creation_time">2020-05-31T12:20:26</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">061bafc47bbfcac9ac4c383cc6308a4a</property>
+    <property name="shotcut:caption">insta-text.png</property>
+    <property name="shotcut:detail">D:\0-DEV\YT-EspidiGames\OverlayAnimations\Resources\Espidi_Games_Overlays\insta-text.png</property>
+    <filter id="filter10" out="00:00:09.483">
+      <property name="background">colour:0</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineRotate</property>
+      <property name="transition.invert_scale">1</property>
+      <property name="transition.fix_rotate_x">0</property>
+      <property name="transition.scale_x">0.3</property>
+      <property name="transition.scale_y">0.3</property>
+      <property name="transition.ox">0</property>
+      <property name="transition.oy">0</property>
+      <property name="transition.threads">0</property>
+    </filter>
+    <filter id="filter11" out="00:00:09.483">
+      <property name="background">colour:0</property>
+      <property name="mlt_service">affine</property>
+      <property name="shotcut:filter">affineSizePosition</property>
+      <property name="transition.fill">1</property>
+      <property name="transition.distort">0</property>
+      <property name="transition.rect">0 230 1280 720 1</property>
+      <property name="transition.valign">top</property>
+      <property name="transition.halign">left</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="transition.threads">0</property>
+    </filter>
+    <filter id="filter12" out="00:00:09.483">
+      <property name="start">1</property>
+      <property name="level">1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeInBrightness</property>
+      <property name="alpha">00:00:00.000=0;00:00:00.317=1</property>
+      <property name="shotcut:animIn">00:00:00.333</property>
+    </filter>
+    <filter id="filter13" out="00:00:09.483">
+      <property name="start">1</property>
+      <property name="level">1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeOutBrightness</property>
+      <property name="alpha">00:00:09.167=1;00:00:09.483=0</property>
+      <property name="shotcut:animOut">00:00:00.333</property>
+    </filter>
+  </producer>
+  <playlist id="playlist3">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V3</property>
+    <blank length="00:00:00.500"/>
+    <entry producer="producer11" in="00:00:00.000" out="00:00:09.483"/>
+    <entry producer="producer12" in="00:00:00.000" out="00:00:09.983"/>
+    <entry producer="producer13" in="00:00:00.000" out="00:00:09.483"/>
+  </playlist>
+  <tractor id="tractor0" title="Shotcut version 20.04.12" global_feed="1" in="00:00:00.000" out="00:09:59.983">
+    <property name="shotcut">1</property>
+    <property name="shotcut:projectAudioChannels">2</property>
+    <property name="shotcut:projectFolder">1</property>
+    <property name="shotcut:scaleFactor">0.01</property>
+    <track producer="background"/>
+    <track producer="playlist0"/>
+    <track producer="playlist2"/>
+    <track producer="playlist3"/>
+    <transition id="transition0">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition1">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="version">0.9</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="disable">1</property>
+    </transition>
+    <transition id="transition4">
+      <property name="a_track">0</property>
+      <property name="b_track">2</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition5">
+      <property name="a_track">1</property>
+      <property name="b_track">2</property>
+      <property name="version">0.9</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="disable">0</property>
+    </transition>
+    <transition id="transition6">
+      <property name="a_track">0</property>
+      <property name="b_track">3</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition7">
+      <property name="a_track">1</property>
+      <property name="b_track">3</property>
+      <property name="version">0.9</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="disable">0</property>
+    </transition>
+  </tractor>
+</mlt>
